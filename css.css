@@ -1,0 +1,26 @@
+.titulo_1{
+	color: darkgreen;
+	text-align: center;
+}
+
+.img1{
+	
+}
+
+
+img{
+	height: 120px;
+	width: 120px;
+
+}
+
+div{
+	text-align: center;
+	color: white;
+	background-color: darkgreen;
+}
+
+#Atras{
+	color: red;
+	text-align: center;
+}
